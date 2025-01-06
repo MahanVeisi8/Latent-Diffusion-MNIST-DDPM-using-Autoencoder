@@ -106,6 +106,8 @@ Projection of latent space using **t-SNE** for a batch and the full test dataset
 Tracking the loss of the diffusion model over epochs.
 
 **Loss Plot:**
+
+
 ![Training Loss](assets/diffusion_tarin_loss.png)
 
 ---
