@@ -86,11 +86,19 @@ A side-by-side comparison of **original** vs **reconstructed** images. High **SS
 ### 2. **Latent Space Visualization**
 Projection of latent space using **t-SNE** for a batch and the full test dataset.
 
-**Batch Visualization:**
-![Latent Space with Labels (One Batch)](assets/Latent_Space_Visualization_with_Labels_one_batch.png)
 
-**Full Test Dataset:**
-![Latent Space Full Test](assets/Latent_Space_Visualization_with_Labels_full_test.png)
+<table>
+  <tr>
+    <td align="center">
+      <strong>Latent Space with Labels (One Batch)</strong><br>
+      <img src="assets/Latent_Space_Visualization_with_Labels_one_batch.png" alt="Latent Space with Labels (One Batch)" width="400px">
+    </td>
+    <td align="center">
+      <strong>Latent Space (Full Test Dataset)</strong><br>
+      <img src="assets/Latent_Space_Visualization_with_Labels_full_test.png" alt="Latent Space Full Test" width="400px">
+    </td>
+  </tr>
+</table>
 
 ---
 
