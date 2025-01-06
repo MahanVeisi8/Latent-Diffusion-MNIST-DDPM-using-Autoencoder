@@ -1,5 +1,6 @@
 # **Diffusion Models on MNIST Dataset 🌀**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14pAGmyrSIaKhb6eVCmHPOk8dlxQ-aydW?usp=sharing)
 [![Python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/downloads/release/python-380/)
 [![Status](https://img.shields.io/badge/status-active-green)]()
 
