@@ -120,14 +120,6 @@ Images progress from noisy states (left) to denoised outputs (right), demonstrat
 
 ---
 
-### 5. **Grid Diffusion GIF**
-A GIF that visualizes multiple samples as they undergo diffusion from noise to clear MNIST digits.
-
-**GIF Animation:**
-![Grid Diffusion](assets/grid_diffusion_gif.gif)
-
----
-
 ## **Formulas and Key Concepts**
 The project applies **unconditional latent diffusion** inspired by classic DDPMs but focuses on the latent space. Below is a simplified breakdown of the key concepts:
 
