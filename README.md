@@ -10,16 +10,10 @@ This repository focuses on generating and reconstructing handwritten digits by i
 - **Autoencoders** with Convolutional Attention Blocks (CABs)
 - **Denoising Diffusion Probabilistic Models (DDPM)** using U-Net
 
----
-
-## **Table of Contents**
-- [Overview](#overview)
-- [Autoencoder with CABs](#autoencoder-with-cabs)
-- [Diffusion Model (DDPM)](#diffusion-model-ddpm)
-- [Results and Visualizations](#results-and-visualizations)
-- [Future Directions](#future-directions)
+![Grid Diffusion](assets/grid_diffusion_gif.gif)
 
 ---
+
 
 ## **Overview**
 This project aims to reconstruct MNIST digits by encoding them into a latent space and progressively denoising them through a **Diffusion Model**.
